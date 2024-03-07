@@ -1,0 +1,15 @@
+{
+  "name": "tea-helper-strings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nugroho",
+  "license": "ISC",
+  "dependencies": {
+    "tea-bool": "^1.0.0",
+    "tea-helper": "^1.2.1"
+  }
+}
