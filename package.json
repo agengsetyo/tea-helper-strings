@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "tea-bool": "^1.0.0",
-    "tea-helper": "^1.2.1"
+    "tea-helper": "^1.2.1",
+    "tea-helper-leap-year": "^1.0.1"
   },
   "repository": {
     "type": "git",
